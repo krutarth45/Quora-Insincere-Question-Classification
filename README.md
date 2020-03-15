@@ -1,6 +1,7 @@
 # Quora-Insincere-Question-Classification
 Kaggle's competition to classify the question.
 
+Dataset is used from this link: https://www.kaggle.com/c/quora-insincere-questions-classification/data
 
 An existential problem for any major website today is how to handle toxic and divisive content. Quora wants to tackle this problem head-on to keep their platform a place where users can feel safe sharing their knowledge with the world.
 
